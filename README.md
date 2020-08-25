@@ -1,2 +1,1 @@
 # bankproject
-https://d3c33hcgiwev3.cloudfront.net/_85905e556033e0b72a6839008dbe7d2b_ExamplesOfAnalytics.zip?Expires=1598486400&Signature=LTf871vGWxG8NsSmoJNNrikFhu-tlhrl6524AQoA1VPpbNulcMA8ON~0iJX0fVYPTS2bXBVofZkgUEQI7Iez93GObWELkrKMFHj4AJcsPzJ4QtqPyj5ODrY45CAIx87-YsD7sDAJ0kLBRjy0kOIyxUrWUlOchchm3nYx-ww2KVw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
